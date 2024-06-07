@@ -9,8 +9,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusf1re&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="nexusf1re" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusf1re&theme=apprentice&show_icons=true)" alt="nexusf1re" /></p>
-
 
 
 <h3 align="left">Connect with me:</h3>
