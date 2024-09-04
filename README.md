@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal and Business projects**
 
-- 🌱 I’m currently learning **Laravel, Nodejs, AngularJS**
+- 🌱 I’m currently learning **Node JS,React JS, Angular**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusf1re&theme=apprentice" alt="nexusf1re" /></p>
 
