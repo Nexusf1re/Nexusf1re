@@ -3,8 +3,6 @@
 
 <p align="center">- 🔭 I’m currently working on **Personal and Business projects**</p>
 
-<p align="center">- 🌱 I’m currently learning **Node JS, React JS, Angular**</p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusf1re&theme=apprentice" alt="nexusf1re" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-j05el383g.vercel.app/api/?username=nexusf1re&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="nexusf1re" /></p>
